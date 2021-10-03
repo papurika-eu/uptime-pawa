@@ -3,20 +3,17 @@ owner: papurika-eu
 repo: uptime-pawa
 
 sites:
-  - name: Coming Soon Page
+  - name: Coming Soon
     url: https://pawa.shop
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.pawa.shop
-  # baseUrl: /your-repo-name
+  cname: pawa.status.papurika.eu
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status Page
+  name: Papurika
   introTitle: ""
   introMessage: 
   navbar:
     - title: Status
       href: /
-    - title: Pawa
-      href: https://pawa.shop
