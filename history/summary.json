@@ -1,20 +1,20 @@
 [
   {
-    "name": "Coming Soon Page",
+    "name": "Coming Soon",
     "url": "https://pawa.shop",
     "icon": "https://favicons.githubusercontent.com/pawa.shop",
-    "slug": "coming-soon-page",
+    "slug": "coming-soon",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 660,
-    "timeWeek": 660,
-    "timeMonth": 660,
-    "timeYear": 660,
+    "time": 461,
+    "timeDay": 461,
+    "timeWeek": 461,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   }
 ]
