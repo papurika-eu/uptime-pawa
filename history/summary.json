@@ -4,19 +4,19 @@
     "url": "https://pawa.shop",
     "icon": "https://favicons.githubusercontent.com/pawa.shop",
     "slug": "coming-soon",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 429,
-    "timeWeek": 269,
-    "timeMonth": 304,
-    "timeYear": 309,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 303,
+    "timeDay": 276,
+    "timeWeek": 250,
+    "timeMonth": 298,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2021-11-03": 0
+      "2021-11-03": 14
     }
   }
 ]
