@@ -4,7 +4,7 @@
     "url": "https://pawa.shop",
     "icon": "https://favicons.githubusercontent.com/pawa.shop",
     "slug": "coming-soon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 297,
     "timeYear": 291,
     "dailyMinutesDown": {
+      "2021-12-31": 0,
       "2021-11-25": 29,
       "2021-11-23": 35
     }
