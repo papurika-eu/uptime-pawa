@@ -1,7 +1,7 @@
 url: https://pawa.shop
-status: up
-code: 200
-responseTime: 1285
-lastUpdated: 2023-05-08T23:08:38.250Z
+status: down
+code: 503
+responseTime: 1193
+lastUpdated: 2023-05-09T07:36:49.239Z
 startTime: Sun Oct 03 2021 13:21:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
