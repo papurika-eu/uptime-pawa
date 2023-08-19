@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pawa.shop.ico",
     "slug": "coming-soon",
     "status": "up",
-    "uptime": "76.80%",
+    "uptime": "76.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.65%",
-    "time": 894,
-    "timeDay": 1391,
-    "timeWeek": 1442,
-    "timeMonth": 1333,
-    "timeYear": 1297,
+    "uptimeYear": "59.93%",
+    "time": 897,
+    "timeDay": 1493,
+    "timeWeek": 1416,
+    "timeMonth": 1330,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2023-07-13": 27,
       "2023-06-27": 312,
@@ -173,8 +173,7 @@
       "2022-08-23": 1440,
       "2022-08-22": 1440,
       "2022-08-21": 1440,
-      "2022-08-20": 1440,
-      "2022-08-19": 1440
+      "2022-08-20": 1440
     }
   }
 ]
