@@ -4,17 +4,17 @@
     "url": "https://pawa.shop",
     "icon": "https://icons.duckduckgo.com/ip3/pawa.shop.ico",
     "slug": "coming-soon",
-    "status": "down",
-    "uptime": "77.88%",
+    "status": "up",
+    "uptime": "77.90%",
     "uptimeDay": "84.11%",
     "uptimeWeek": "97.73%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "68.99%",
-    "time": 979,
-    "timeDay": 1045,
-    "timeWeek": 1267,
-    "timeMonth": 1234,
-    "timeYear": 1419,
+    "uptimeYear": "69.20%",
+    "time": 981,
+    "timeDay": 1157,
+    "timeWeek": 1244,
+    "timeMonth": 1240,
+    "timeYear": 1423,
     "dailyMinutesDown": {
       "2023-09-21": 229,
       "2023-07-13": 27,
@@ -140,8 +140,7 @@
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
-      "2022-09-23": 1440,
-      "2022-09-22": 1440
+      "2022-09-23": 1440
     }
   }
 ]
