@@ -6,17 +6,16 @@
     "slug": "coming-soon",
     "status": "up",
     "uptime": "79.49%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "84.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "84.52%",
     "time": 1164,
-    "timeDay": 990,
-    "timeWeek": 1363,
-    "timeMonth": 1331,
+    "timeDay": 1006,
+    "timeWeek": 1376,
+    "timeMonth": 1334,
     "timeYear": 1486,
     "dailyMinutesDown": {
-      "2023-11-16": 8,
       "2023-10-06": 19,
       "2023-10-04": 20,
       "2023-09-23": 19,
@@ -89,8 +88,7 @@
       "2022-11-21": 1440,
       "2022-11-20": 1440,
       "2022-11-19": 1440,
-      "2022-11-18": 1440,
-      "2022-11-17": 1440
+      "2022-11-18": 1440
     }
   }
 ]
